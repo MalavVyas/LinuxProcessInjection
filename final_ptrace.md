@@ -258,7 +258,7 @@ Let’s see working demo of how that’d work
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/MalavVyas/LinuxProcessInjection/raw/master/ProcessInjectionDemo.webm" type="video/webm">
+    <source src="https://github.com/MalavVyas/LinuxProcessInjection/raw/master/ProcessInjectionDemo.webm" poster="https://github.com/MalavVyas/LinuxProcessInjection/raw/master/poster.png" type="video/webm">
   </video>
 </figure>
 <!-- blank line -->
