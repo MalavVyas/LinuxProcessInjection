@@ -16,7 +16,7 @@ This is one of the many techniques employed within malwares to hide from a typic
 
 ## So what?
 
-When employed perfectly, process injection improves stealth and in some cases also achieves persistence access to the compromised system.
+When employed perfectly, process injection improves stealth and in some cases also achieves persistant access to the compromised system.
 This also leads to the attacker process leaking the sensitive information from a legitmate process.
 
 A perfect example for this would be a wall-cheat program for computer video games.
