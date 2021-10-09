@@ -1,4 +1,3 @@
-![Semantic description of image](https://github.com/MalavVyas/LinuxProcessInjection/raw/master/20200721_113241.jpg "Process Injection")
 ## Introduction:
 
 Injection attacks have been in limelight since the initial days of the internet.
