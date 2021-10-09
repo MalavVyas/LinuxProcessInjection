@@ -6,7 +6,7 @@ This repository contains files for the Linux Process Injection blog written for 
 
 Link to the article!
 
-https://www.1daylabs.ml/posts/Linux-Process-Injection/
+https://malavvyas.medium.com/?p=5db481c43a46
 
 Credits
 
